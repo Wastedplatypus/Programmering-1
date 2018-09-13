@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	/*
+	
 	 // en variabel för heltal
 	 int tal1;
 	 // variabeln tilldelas ett värde
@@ -18,10 +18,13 @@ int main()
 	f1 = (f1 * 1);
 	cout << f1 << endl;
 	cout << "f1 = " << f1 << endl;
-	* */
 	
 	
-     // övning 2.1
+     // inmatning
+     int heltal1;
+     cin >> heltal1;
+     heltal1=heltal1+1;
+     cout << heltal1 << endl;
      
 	
 	 return 0;
