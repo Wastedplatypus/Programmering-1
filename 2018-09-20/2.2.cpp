@@ -1,7 +1,4 @@
-#include <iostream>
-using namespace std;
-int main()
-{
+
 int tal1;
 double tal2 ='a';
 char tecken;	
