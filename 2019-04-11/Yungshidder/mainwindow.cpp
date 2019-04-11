@@ -12,7 +12,7 @@ MainWindow::MainWindow(QWidget *parent) :
 // private slots
 void MainWindow::peehole()
 {
-
+   ui->lineEdit->setText("Penis stuck in zipper");
 }
 
 MainWindow::~MainWindow()
