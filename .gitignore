@@ -1,2 +1,36 @@
+# Ignore Everything
+##*
+
+# But not .cpp
+##!*.cpp
+# Or directories
+##!*/
+##!.gitignore
+##!README.md
+
+# Build folder
+**/build-*
+
+# Temporary files
+**/*~
+
+# Temporary Project file
+**/*.pro.user
+
+# Compiled Language files
+**/*.qm
+
+# Windows executable
+**/*.exe
+**/*_temp
+
 # Linux executable
 **/main
+
+# Windows lib files
+**/*.dll
+
+
+# lib files
+**/lib*
+
